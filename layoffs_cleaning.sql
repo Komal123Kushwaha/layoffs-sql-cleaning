@@ -193,7 +193,7 @@ AND percentage_laid_off IS NULL;
 
 
 -- we do not populate total_laid_off and percentage_laid_off 
--- because we don'rt have any perimeter on the basis we are going to populate them
+-- because we don'nt have any perimeter on the basis we are going to populate them
 -- so here is our final cleaned data which we have in our layoff_staging2 table
 -- thank you for the project.
 
