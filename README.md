@@ -14,6 +14,7 @@ This project involves cleaning a raw dataset of layoffs using SQL. It covers han
 - `layoffs_cleaning.sql` – All SQL queries used for data cleaning
 - `layoffs_cleaned.csv` – Final cleaned dataset ready for analysis
 - `layoffs raw data.csv` - we have our raw data that we used for the cleaning process
+- `README.md` – Project summary and documentation
 
 ## 🔍 Key Concepts
 - CTEs
